@@ -1,0 +1,24 @@
+button {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: rgb(252, 105, 20);
+    border: 1px solid rgb(5, 255, 230);
+    cursor: pointer;
+    margin-top: 20px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    margin: 30px 100px;
+    border: 1px solid rgb(252, 246, 199);
+    background-color: rgb(229, 254, 242);
+}
+.circle{
+    width: 120px;
+    height: 120px;
+    margin: 30px 40px;
+    border-radius: 50%;
+    border: 1px solid rgb(192, 233, 255);
+    background-color: rgb(101, 172, 253);
+}
